@@ -14,8 +14,6 @@ int main(){
         } else{
             cout<<i<<endl;
         }
-
-    
     }
     cout<<"Hello!! I am a programmer now";
     return 0;

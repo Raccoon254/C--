@@ -23,6 +23,6 @@ public:
 int main()
 {
     Triangle triangle;
-    cout << "Area is" << triangle.area() << "Perimeter is::" << triangle.perimeter();
+    cout << "Area is  ::" << triangle.area() << "Perimeter is  ::" << triangle.perimeter()<<endl;
     return 0;
 }
